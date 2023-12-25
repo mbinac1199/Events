@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "889893022804",
+    "project_id": "reactnative-event",
+    "storage_bucket": "reactnative-event.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889893022804:android:bedb3ba35f05d589f211c1",
+        "android_client_info": {
+          "package_name": "com.company.reactEventify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889893022804-1aq38slphlrnqmbid4vscclu6rfgkt75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.reactEventify",
+            "certificate_hash": "8320f3450586bd0272c53c6a514c5c7e57a0e1d5"
+          }
+        },
+        {
+          "client_id": "889893022804-625h0php1192oam6pu855pdga4a73mpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj5yRpZTVmhoBmrW6G7cIAlYD6CJKyPg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889893022804-625h0php1192oam6pu855pdga4a73mpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
